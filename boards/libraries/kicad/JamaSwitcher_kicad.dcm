@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADV7511
+D HDMI v1.4 Transmitter
+K HDMI TX
+$ENDCMP
+#
+#End Doc Library
